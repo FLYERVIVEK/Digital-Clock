@@ -1,0 +1,17 @@
+.cont{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(#e66465, #9198e5);
+    height: 100vh;
+}
